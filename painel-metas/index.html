@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel de Metas</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Painel de Metas Diárias</h1>
+    </header>
+    <main>
+        <section>
+            <form id="metaForm">
+                <input type="text" id="titulo" placeholder="Digite a sua meta">
+                <textarea id="descricao" placeholder="Descrição da sua meta" ></textarea>
+                <select id="prioridade">
+                    <option value="baixa">Baixa</option>
+                    <option value="media">Media</option>
+                    <option value="alta">Alta</option>
+                </select>
+                <input type="date" placeholder="Selecione a data" id="data">
+                <button type="submit">Adicionar Meta</button>
+            </form>
+            <div class="erro"></div>
+        </section>
+        <section id="lista">
+            <ul id="lista-metas"></ul>
+        </section>
+    </main>
+    <footer> &copy; Kaio N. Rocha - 14/11/2025</footer>
+    <script src="./js/script.js"></script>
+</body>
+
+</html>
