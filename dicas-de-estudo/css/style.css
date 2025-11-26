@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #4a90e2;
+    color: white;
+    padding: 20px 0;
+}
+
+header img {
+    width: 200px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+main {
+    margin: 30px;
+}
+
+#botao {
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+#botao:hover {
+    background-color: #357ac9;
+}
+
+#frase {
+    font-size: 18px;
+    color: #333;
+    margin: 20px 0;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    padding: 15px;
+    font-size: 14px;
+    margin-top: 50px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    margin: 0 5px;
+} 
+footer a:hover {
+    text-decoration: underline;
+}
