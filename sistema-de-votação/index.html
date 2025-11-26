@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Votação</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Sistema de Votação de Personagens</h1>
+    </header>
+    <main>
+        <section class="container"></section>
+        <form id="formulario">
+            <select id="personagens">
+                <option value="">Selecione...</option>
+                <option value="Rodrygo">Rodrygo Goes</option>
+                <option value="Vinicius">Vinicius Júnior</option>
+                <option value="Neymar">Neymar</option>
+                <option value="Estevao">Estevão</option>
+            </select>
+            <button id="btnVotar">Votar</button>
+        </form>
+        <div id="erro" classe="erro msg"></div>
+        </section>
+        <section id="ranking">
+            <ul id="lista-ranking"></ul>
+        </section>
+    </main>
+    <footer> &copy; Kaio N. Rocha - 17/11/2025</footer>
+    <script src="./js/script.js"></script>
+</body>
+
+</html>
