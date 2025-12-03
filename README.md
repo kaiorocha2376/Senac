@@ -25,7 +25,7 @@ Para os projetos de vocês, vocês podem apresentar o seguinte:
 
 **3.** Abra o arquivo index.html no navegador
 
-## Se o projeto de vocês estiver no GitHub Pages:
+## Clique no link abaixo para acessar o GitHub Pages:
 
 🧠 Acesse os projeto online:
 
