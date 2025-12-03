@@ -1,24 +1,10 @@
-# 📚 Sistema de Votação
-Escolha um dos seus idolos do futebol favorito, e vote nele para melhor personagem.
+# 📖 Senac
+Vai ser aqui, que eu vou adicionando os projetos concluidos das aulas
 
 ---
-## 📝 O que o projeto faz:
-Esse projeto é uma **votação** de personagens simples. Ele permite você escolher o seu favorito e votar para sempre deixar ele no topo.
+## 📝 Sobre mim 
 
----
-## 💻 Que tecnologias usa
--HTML
-
--CSS
-
--JavaScript
-
--Git e GitHub
-
----
-## ✔️ Funcionalidades
-✅ Campo de seleção funcionando
-✅ Selecione um personagem antes de votar
+Tenho 15 anos e estou fazendo um curso de TI no senac em Brazlândia-Df, nesse curso estou aprendendo e me dedicando a cada dia!
 
 ---
 ## ©️ Autor 
@@ -41,6 +27,6 @@ Para os projetos de vocês, vocês podem apresentar o seguinte:
 
 ## Se o projeto de vocês estiver no GitHub Pages:
 
-Acesse o projeto online
+🧠 Acesse os projeto online:
 
 https://github.com/kaiorocha2376/Senac
