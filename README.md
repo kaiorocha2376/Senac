@@ -10,7 +10,7 @@ Tenho 16 anos e estou fazendo um curso de TI no senac em Brazlândia-Df, nesse c
 ## ©️ Autor 
 Desenvolvido por Kaio N. Rocha!
 
-Turma de Tecnologia em informática para internet(Matutino)_Senac-df
+Turma de Tecnologia em informática para internet(Vespertino)_Senac-df
 
 ---
 ## Clique no link abaixo para acessar o GitHub Pages:
